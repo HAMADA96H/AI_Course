@@ -2,13 +2,16 @@
 
 Cycle 1
 
-Level 1  :  intro to PYTHON  
+Level 1  : 
+
+
+               intro to PYTHON  
                        
                       Basics 
                       Data structure
                       OOP
                       
-  English
+               English
                       
                       Learn from Zero
                       Listening
