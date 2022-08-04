@@ -1,2 +1,16 @@
 # AI_Course
-Level 1  :  intro to PYTHON   /  ENGLISH   /    
+
+Cycle 1
+
+Level 1  :  intro to PYTHON  
+                       
+                      Basics 
+                      Data structure
+                      OOP
+                      
+            English
+                      
+                      Learn from Zero
+                      Listening
+                      Phonetics
+                      
